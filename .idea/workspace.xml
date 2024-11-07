@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66fc49db-0cd6-47e9-8f51-292cbd1015ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baseClasses/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/system_testing/TestLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/baseClasses/Base.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pages/AccountPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/system_testing/TestLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2oOVW8S3X4XapPVvu8XPKrE4YOB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.Learn_Selenium [clean].executor": "Run",
+    "Maven.Learn_Selenium [test].executor": "Run",
+    "Maven.Unknown [clean].executor": "Run",
+    "Maven.orangeproject [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.TestLogin (1).executor": "Run",
+    "TestNG.TestLogin (2).executor": "Run",
+    "TestNG.TestLogin.ValidLogin.executor": "Run",
+    "TestNG.TestLogin.executor": "Run",
+    "TestNG.TestLogin.testValidLogin.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/acill/OneDrive/Desktop/Framework Testing/orangeproject/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.TestLogin">
+    <configuration name="TestLogin (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangeMyproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system_testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system_testing" />
+      <option name="MAIN_CLASS_NAME" value="system_testing.TestLogin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLogin (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangeMyproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system_testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system_testing" />
+      <option name="MAIN_CLASS_NAME" value="system_testing.TestLogin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangeMyproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system_testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system" />
+      <option name="MAIN_CLASS_NAME" value="system_testing.TestLogin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLogin.ValidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangeMyproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system_testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system" />
+      <option name="MAIN_CLASS_NAME" value="system_testing.TestLogin" />
+      <option name="METHOD_NAME" value="ValidLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLogin.testValidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangeMyproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system_testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system" />
+      <option name="MAIN_CLASS_NAME" value="system_testing.TestLogin" />
+      <option name="METHOD_NAME" value="testValidLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestLogin" />
+        <item itemvalue="TestNG.TestLogin.testValidLogin" />
+        <item itemvalue="TestNG.TestLogin (2)" />
+        <item itemvalue="TestNG.TestLogin (1)" />
+        <item itemvalue="TestNG.TestLogin.ValidLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66fc49db-0cd6-47e9-8f51-292cbd1015ad" name="Changes" comment="" />
+      <created>1730740642666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730740642666</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

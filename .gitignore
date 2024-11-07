@@ -1,7 +1,6 @@
-.idea/
-pom.xml
-screen-shot/
-src/
+.idea
+*.iml
+/out
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
